@@ -15,7 +15,7 @@ This script runs **inference + BLEU evaluation** on the MSVD test set using your
   - `SavedModel/model0.h5`
   - `SavedModel/i2wData.pickle`
 
-> I tarined it, run:
+> I tarined it, with:
 > ```bash
 > python3 main.py --epochs 100 --batch 5 --num_workers 0
 > ```
