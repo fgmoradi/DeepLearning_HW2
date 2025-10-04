@@ -1,6 +1,6 @@
 # How to Run `hw2_seq2seq.sh`
 
-This script runs **inference + BLEU evaluation** on the MSVD test set using your trained model.
+This script runs **inference + BLEU evaluation** on the MSVD test set using the trained model.
 
 ## Prerequisites
 
